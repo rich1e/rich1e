@@ -6,7 +6,7 @@ This is the place where I find good things 🥳
 - 🔭 I’m currently working on very fav something 🤩
 - 🌱 I’m currently TypeScript, Solidity
 - 💬 Ask me about anything related to Javascript / Typescript or Vue / React
-- 👨‍💻  Read more about my projects at [rich1e.site](https://rich1e.site)
+- 👨‍💻  Read more about my projects at [Github Blog](https://github.com/rich1e/rich1e.github.io)
 - ⚡ Fun fact: I ❤️ 🐈s and Steam Gaming (GamerTag: [潜龙吾游](https://steamcommunity.com/id/yuqigong/) 🎮)
 
 <!-- @see https://github.com/ryo-ma/github-profile-trophy/
